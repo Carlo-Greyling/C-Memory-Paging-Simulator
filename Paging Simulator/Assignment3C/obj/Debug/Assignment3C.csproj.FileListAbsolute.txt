@@ -1,0 +1,10 @@
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\bin\Debug\Assignment3C.exe.config
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\bin\Debug\Assignment3C.exe
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\bin\Debug\Assignment3C.pdb
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.csprojAssemblyReference.cache
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.Form1.resources
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.Properties.Resources.resources
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.csproj.GenerateResource.cache
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.csproj.CoreCompileInputs.cache
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.exe
+C:\Potch\ITRW 316\Assignment 3C\Assignment3C\Assignment3C\obj\Debug\Assignment3C.pdb
